@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
-name                     : &name "Sizhe (Lester) Li"
+name                     : &name "Lester S. Li"
 description              : &description "personal description"
 url                      : "https://lester0866.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sizhe (Lester) Li"
+  name             : "Lester Sizhe Li"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Rochester, NY"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "sizhe-lester-li"
+  linkedin         : "lester-sizhe-li"
   orcid            : 
   pinterest        :
   soundcloud       :
