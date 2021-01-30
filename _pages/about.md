@@ -13,7 +13,11 @@ My current research interests are:
 * Multimodal Learning: audio-visual video understanding
 * Medical Computer Vision: histopathological cancer classification
 
+<br/><br/>
+<br/><br/>
+
 # Publications
+<hr style="width:100%;text-align:left;margin-left:0">
 
 <div>
     <b>1. Space-Time Memory Network for Sounding Object Localization in Videos</b><br/>
