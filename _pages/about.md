@@ -38,7 +38,7 @@ My current research interests are:
 
 <div>
     <b>3. A Deep Learning Algorithm for the Diagnosis and Gleason Grading of Whole Slide Images of Prostate Cancer Core Biopsies</b><br/>
-    <a href="https://www.auajournals.org/doi/abs/10.1097/JU.0000000000000954.01" style="text-decoration:none">[paper]</a> <br/>
+    <a href="https://www.auajournals.org/doi/abs/10.1097/JU.0000000000000954.01" style="text-decoration:none">[abstract]</a> <br/>
     Ohad Kott*, Sizhe Li*, Drew Linsley, Ali Amin, Bora Golijanin, Dragan Golijanin, Thomas Serre, Boris Gershman (Equal contribution*)
     <br/>
     <i> The Journal of Urology, 2020 </i>
