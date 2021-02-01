@@ -49,6 +49,9 @@ My current research interests are:
     <i> The Journal of Urology, 2020 </i>
 </div>
 <div>
-<img style="width:520px;height:416px;padding:10px;" src="/images/aua_2020/Teaser.png"/>
+<img style="width:918px;height:495x;padding:10px;" src="/images/aua_2020/Teaser.png"/>
+</div>
+<div>
+<img style="width:1000px;height:562px;padding:0px;" src="/images/aua_2020/Method.png"/>
 </div>
 
