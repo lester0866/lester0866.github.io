@@ -27,6 +27,9 @@ My current research interests are:
 <div>
 <img style="width:600px;height:384px;padding:10px;" src="/images/space_time_memory/Teaser_2x.png"/>
 </div>
+<div>
+<img style="width:700px;height:320px;padding:10px;" src="/images/space_time_memory/Method_5x.png"/>
+</div>
 
 <br><br/>
 <div>
