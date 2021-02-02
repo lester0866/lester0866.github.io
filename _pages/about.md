@@ -25,7 +25,7 @@ My current research interests are:
     <i> Under Review </i>
 </div>
 <div>
-<img style="width:600px;height:384px;padding:10px;" src="/images/space_time_memory/Teaser_2x.png"/>
+<img style="width:700px;height:450px;padding:10px;" src="/images/space_time_memory/Teaser_2x.png"/>
 </div>
 <div>
 <img style="width:700px;height:320px;padding:10px;" src="/images/space_time_memory/Method_5x.png"/>
@@ -35,7 +35,7 @@ My current research interests are:
 <div>
     <b>Learning to localize mutation in lung adenocarcinoma histopathology images</b><br/>
     <a href="https://drive.google.com/file/d/1oNsBNPL1mSupmUIxQGojOskZjncYTmg2/preview" style="text-decoration:none">[paper]</a> <br/>
-    Sahar Shahamatdar, Daryoush Saeed-Vafa, Drew Linsley, <u>Sizhe Li</u>, Sohini Ramachandran, Thomas Serre
+    Sahar Shahamatdar<sup>*</sup>, Daryoush Saeed-Vafa<sup>*</sup>, Drew Linsley<sup>*</sup>, <u>Sizhe Li</u>, Sohini Ramachandran<sup>+</sup>, Thomas Serre<sup>+</sup> (Equal contribution<sup>*</sup>, Equal advising<sup>+</sup>)
 <br/>
     <i> NeurIPS2020 Workshop on Learning Meaningful Representations of Life </i>
 </div>
@@ -47,7 +47,7 @@ My current research interests are:
 <div>
     <b>A Deep Learning Algorithm for the Diagnosis and Gleason Grading of Whole Slide Images of Prostate Cancer Core Biopsies</b><br/>
     <a href="https://www.auajournals.org/doi/abs/10.1097/JU.0000000000000954.01" style="text-decoration:none">[abstract]</a> <br/>
-    Ohad Kott*, <u>Sizhe Li</u>*, Drew Linsley, Ali Amin, Bora Golijanin, Dragan Golijanin, Thomas Serre, Boris Gershman (Equal contribution*)
+    Ohad Kott<sup>*</sup>, <u>Sizhe Li</u><sup>*</sup>, Drew Linsley, Ali Amin, Bora Golijanin, Dragan Golijanin, Thomas Serre, Boris Gershman (Equal contribution<sup>*</sup>)
     <br/>
     <i> The Journal of Urology, 2020 </i>
 </div>
