@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year undergraduate student at the University of Rochester (URoch) majoring in Computer Science and Mathematics & Statistics. I am fortunate to work with [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/) at URoch and [Thomas Serre](https://serre-lab.clps.brown.edu/person/thomas-serre/) at Brown.
+I am a third-year undergraduate student at the University of Rochester (URoch) majoring in Computer Science and Applied Mathematics. I am fortunate to work with [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/) at URoch and [Thomas Serre](https://serre-lab.clps.brown.edu/person/thomas-serre/) at Brown.
 
 My current research interests are:
 * Multimodal Learning: audio-visual video understanding
