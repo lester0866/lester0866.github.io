@@ -53,7 +53,7 @@ My current research focuses on:
 <div>
 <img style="width:918px;height:495x;padding:10px;" src="/images/aua_2020/Teaser.png"/>
 </div>
-<div>
+<!-- <div>
 <img style="width:1000px;height:562px;padding:0px;" src="/images/aua_2020/Method.png"/>
-</div>
+</div> -->
 
