@@ -1,6 +1,6 @@
 ---
 permalink: /
-title:
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,6 @@ I am a third-year undergraduate student at the University of Rochester (URoch) m
 My current research focuses on:
 * Multimodal Learning: audio-visual video understanding
 * Medical Computer Vision: histopathological cancer classification
-
 <br/><br/>
 
 # Publications
@@ -27,9 +26,9 @@ My current research focuses on:
 <div>
 <img style="width:700px;height:450px;padding:10px;" src="/images/space_time_memory/Teaser_2x.png"/>
 </div>
-<div>
+<!-- <div>
 <img style="width:700px;height:320px;padding:10px;" src="/images/space_time_memory/Method_5x.png"/>
-</div>
+</div> -->
 
 <br><br/>
 <div>
